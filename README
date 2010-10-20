@@ -1,0 +1,16 @@
++------------------------------------------+
+|  'Site Search Suggester' project README  |
++------------------------------------------+
+
+== Summary
+
+This project provides suggestion to site search for greasemonkey.
+
+== Description
+
+Add suggestion to site search such as ruby-lang.org, php.net, smarty.net.
+
+== License
+
+Released under a Creative Commons License BY 3.0
+http://creativecommons.org/licenses/by/3.0/
